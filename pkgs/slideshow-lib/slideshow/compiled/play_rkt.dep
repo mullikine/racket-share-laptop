@@ -1,0 +1,1 @@
+("7.0" ("5881530ceb8a5d814d3cc13808dc914e27204391" . "5983eca4c8c0323209993d9c1bec4d7ccd6b843a") (collects #"pict" #"main.rkt") (collects #"racket" #"contract.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"list.rkt") (collects #"scheme" #"math.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"slideshow" #"base.rkt"))

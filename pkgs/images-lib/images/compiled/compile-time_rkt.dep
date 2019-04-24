@@ -1,0 +1,1 @@
+("7.0" ("f67862a9a85b0059178788f3c2b6dd08f671add5" . "ac5f878ff1ec2604e90b145716849fdd249d03d8") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"math.rkt") (collects #"racket" #"runtime-config.rkt"))

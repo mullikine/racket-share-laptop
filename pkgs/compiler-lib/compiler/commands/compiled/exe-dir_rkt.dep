@@ -1,0 +1,1 @@
+("7.0" ("84663166a59d6800df3cdcd837a252fcad760688" . "fa330e34c74ce51fee304f95d4e8d6af1738e06a") (collects #"compiler" #"distribute.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"raco" #"command-name.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"scheme" #"runtime-config.rkt"))

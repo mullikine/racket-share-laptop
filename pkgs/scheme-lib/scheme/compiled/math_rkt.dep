@@ -1,0 +1,1 @@
+("7.0" ("31784e00075947ca35d6a0a53b8829cd2af19429" . "8977d8e05bfae875cc8c8b16e30a7a4f83c51595") (collects #"racket" #"math.rkt") (collects #"scheme" #"private" #"provider" #"lang" #"reader.rkt") (collects #"scheme" #"private" #"provider" #"lang.rkt"))

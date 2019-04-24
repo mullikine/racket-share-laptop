@@ -1,0 +1,1 @@
+("7.0" ("62f2e6234b3e0ea3f2c36f60fe24c09e61dab103" . "b81e2f66bb29f9656beaf2336ae766457527f5ae") (collects #"drracket" #"tool.rkt") (collects #"framework" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt") (collects #"repo-time-stamp" #"stamp.rkt"))

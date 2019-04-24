@@ -1,0 +1,1 @@
+("7.0" ("efcba2254251a2d50a580e547c5169dccd456ed1" . "12fb2f44c1df1e713d452d5a1157b45e29c88c36") (collects #"scheme" #"gui" #"lang" #"reader.rkt") (collects #"scheme" #"gui.rkt") (collects #"scheme" #"runtime-config.rkt"))

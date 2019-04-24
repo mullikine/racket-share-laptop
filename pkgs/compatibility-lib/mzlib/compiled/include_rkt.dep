@@ -1,0 +1,1 @@
+("7.0" ("7b298b5cee8a3200972706cfed25c4972ce47c33" . "e94a9814317fc0c6bb6acd6e73831ad7bd348bd8") (collects #"mzlib" #"cm-accomplice.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"private" #"increader.rkt") (collects #"syntax" #"stx.rkt"))

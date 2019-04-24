@@ -1,0 +1,1 @@
+("7.0" ("bf72749816013bd50512c05ffe602eff9ff5df6a" . "0fae7041d5c801468df321059f3bace856df7f43") (collects #"compiler" #"demodularizer" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"cmdline.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"set.rkt") (collects #"raco" #"command-name.rkt"))

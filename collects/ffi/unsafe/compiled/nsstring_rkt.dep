@@ -1,0 +1,1 @@
+("7.0" ("0b17de61276f8f8b334f9347f224a81e85f67351" . "406da28e0a59aa0f477f09abdbc04b6f0057e0f1") (collects #"ffi" #"unsafe" #"alloc.rkt") (collects #"ffi" #"unsafe" #"atomic.rkt") (collects #"ffi" #"unsafe" #"nsalloc.rkt") (collects #"ffi" #"unsafe" #"objc.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

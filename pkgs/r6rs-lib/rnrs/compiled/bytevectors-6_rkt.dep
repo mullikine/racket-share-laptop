@@ -1,0 +1,1 @@
+("7.0" ("4228c197630eecedd493c718ca83ba4b1bfc0dd7" . "ff291f0820387fd9aad4412c3047d5bdd1ee4675") (collects #"rnrs" #"enums-6.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"runtime-config.rkt"))

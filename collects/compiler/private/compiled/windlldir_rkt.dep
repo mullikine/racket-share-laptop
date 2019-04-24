@@ -1,0 +1,1 @@
+("7.0" ("78c30b082ed184468581d1baa9ab71615d6b6c69" . "c1519f603caff68f3e1ea4776b6e6bfe89e74d19") (collects #"compiler" #"private" #"winutf16.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"promise.rkt") (collects #"racket" #"runtime-config.rkt"))

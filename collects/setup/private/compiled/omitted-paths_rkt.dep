@@ -1,0 +1,1 @@
+("7.0" ("399c020f5e3bd4e1db001f113768429a83ff9088" . "4387397805aca9d4d2eb435e2ddb84a957218e88") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"path.rkt") (collects #"racket" #"promise.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt") (collects #"setup" #"private" #"lib-roots.rkt"))

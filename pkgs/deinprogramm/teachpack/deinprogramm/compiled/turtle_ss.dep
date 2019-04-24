@@ -1,0 +1,1 @@
+("7.0" ("141455b16f7941bc750a9d17369cc7560d43c897" . "8ffb4bdf85b1b2c1a167fd49cb445f6443f425fb") (collects #"deinprogramm" #"turtle.rkt") (collects #"mzscheme" #"main.rkt"))

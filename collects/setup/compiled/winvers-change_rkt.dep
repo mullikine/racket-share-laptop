@@ -1,0 +1,1 @@
+("7.0" ("398da14540d4253fc59fa1d42881a88983ca0497" . "80cbaec5bd87acd2f172991f1c62ea991f91bf53") (collects #"dynext" #"filename-version.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"cross-system.rkt"))

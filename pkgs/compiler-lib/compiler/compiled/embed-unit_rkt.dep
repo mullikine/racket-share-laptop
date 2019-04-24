@@ -1,0 +1,1 @@
+("7.0" ("d1209bc28d60fadeb1e809aa4c8eabe03d7796d4" . "3065a38c9a43cfda35fa8a85f79d679d3eec2590") (collects #"compiler" #"embed-sig.rkt") (collects #"compiler" #"embed.rkt") (collects #"compiler" #"sig.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

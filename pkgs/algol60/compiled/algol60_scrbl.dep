@@ -1,0 +1,1 @@
+("7.0" ("ad3507fe1c358dd4217660c662886329b0dc2ebf" . "39213c52c962d3e25055bbc74c09b39720e68f86") (collects #"algol60" #"algol60.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt"))

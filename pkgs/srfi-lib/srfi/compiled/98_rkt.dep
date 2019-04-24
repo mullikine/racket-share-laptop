@@ -1,0 +1,1 @@
+("7.0" ("56d1b5c6a4f0c3c671f26703182cb603eb5335b3" . "05e37db2a328be01eeb8715b75b6d5738b006b6c") (collects #"ffi" #"unsafe" #"cvector.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"ffi" #"vector.rkt") (collects #"ffi" #"winapi.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"foreign.rkt") (collects #"scheme" #"runtime-config.rkt"))

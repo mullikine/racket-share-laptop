@@ -1,0 +1,1 @@
+("7.0" ("bba96120b30f606761793ce45f7bacaa7beab7e0" . "09b46f7501903e86f97b1cf63ab0bf6609468cdd") (collects #"graphics" #"value-turtles.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"math.rkt") (collects #"racket" #"runtime-config.rkt"))

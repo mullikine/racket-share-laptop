@@ -1,0 +1,1 @@
+("7.0" ("f41bac298a6186267c456641470d0dd885943a45" . "04adac2a74e687f2d708f89df988d9c919f379ac") (collects #"2htdp" #"private" #"image-more.rkt") (collects #"2htdp" #"private" #"img-err.rkt") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"mrlib" #"image-core.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

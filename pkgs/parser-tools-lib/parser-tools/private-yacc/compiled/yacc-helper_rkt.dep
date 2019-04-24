@@ -1,0 +1,1 @@
+("7.0" ("6cd5cc09c96354b229671df88858952e2a9ab7de" . "b638e437b1e0e2544c1960e6b7eacc57397dddc7") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt") (collects #"parser-tools" #"private-lex" #"token-syntax.rkt"))

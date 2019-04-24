@@ -1,0 +1,1 @@
+("7.0" ("18dde96fbb8a0647d5e705bbd62e3b7028c59a0a" . "954c77a2e466e63e6e06bcb1129c6852ba98459b") (collects #"frtime" #"frtime-big.rkt") (collects #"frtime" #"gui" #"mixin-macros.rkt") (collects #"frtime" #"lang" #"reader.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"runtime-config.rkt"))

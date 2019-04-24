@@ -1,0 +1,1 @@
+("7.0" ("c8d6668c673b9f6f3c697c1bacde52e5d5fddbfb" . "2a13bdc2706e444a6e8a0cca9283b6ffef78ef71") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"42" #"ec-core.scm") (collects #"srfi" #"42" #"extra-generators.scm") (collects #"srfi" #"42" #"mzscheme2.rkt"))

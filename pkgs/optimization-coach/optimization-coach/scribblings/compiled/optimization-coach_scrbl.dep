@@ -1,0 +1,1 @@
+("7.0" ("a6f5d509122104dc12eff9d07947d3f752b9a00b" . "21524676f875063fe1577c1850bfb350c4fe2195") (collects #"optimization-coach" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))

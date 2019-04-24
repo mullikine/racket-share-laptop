@@ -1,0 +1,1 @@
+("7.0" ("02a7cc0394d25e30834bc945dcc386c0361123ca" . "50af85a42cb06d2cf0ed3e4b1277953655121e1b") (collects #"htdp" #"error.rkt") (collects #"net" #"sendurl.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"xml" #"xml.rkt"))

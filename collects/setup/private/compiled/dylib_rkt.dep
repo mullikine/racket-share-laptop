@@ -1,0 +1,1 @@
+("7.0" ("a655d326f32b187bc53d4d88692755e121314ecf" . "a20139edda3189626422a8103235b41d79a8d5a7") (collects #"compiler" #"private" #"mach-o.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt"))

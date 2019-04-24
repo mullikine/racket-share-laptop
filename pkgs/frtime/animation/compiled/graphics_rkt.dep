@@ -1,0 +1,1 @@
+("7.0" ("7b2894c17743ad6bd58a091da8566b9b39332ddf" . "4aa795cf4212d2cfae9781712f782919bd42427c") (collects #"frtime" #"animation" #"graphics-sig.rkt") (collects #"frtime" #"animation" #"graphics-unit.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

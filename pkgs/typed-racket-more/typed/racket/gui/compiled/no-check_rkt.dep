@@ -1,0 +1,1 @@
+("7.0" ("ad662ee7eff85f9ec2debefef55d8b77d87ae498" . "b32da78d5edf23c63c8297f2bc5a089fa613a376") (collects #"racket" #"require.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"typed" #"private" #"no-check-helper.rkt") (collects #"typed" #"racket" #"gui.rkt") (collects #"typed-racket" #"minimal" #"lang" #"reader.rkt") (collects #"typed-racket" #"minimal.rkt"))

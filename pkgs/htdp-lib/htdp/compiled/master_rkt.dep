@@ -1,0 +1,1 @@
+("7.0" ("767f75d90bd781a769cbef6989a9a50007a282b7" . "8de5987ac2cddca3245ed06bafc42dc758a8d58e") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt"))

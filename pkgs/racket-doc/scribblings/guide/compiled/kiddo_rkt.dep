@@ -1,0 +1,1 @@
+("7.0" ("914f467aea8b66e7a615fc1af0596cfae85f0f7a" . "a6fa1ed6887af872c407fe7fcd9aa1c866034781") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"scribblings" #"guide" #"death-list-5.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("6ccdeed52a33864dc058dde744c7f42c737dd950" . "e6298d41719d9867a3071bda03c24e96163c6bea") (collects #"db" #"base.rkt") (collects #"db" #"private" #"cassandra" #"main.rkt") (collects #"db" #"util" #"cassandra.rkt") (collects #"openssl" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

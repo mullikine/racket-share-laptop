@@ -1,0 +1,1 @@
+("7.0" ("bbaae7c145f2e2f57f984cdb379b410415183c30" . "dca370321481ce24aaa77e03a6a22192737c75d8") (collects #"mrlib" #"cache-image-snip.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"decode.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("6aaf6199f145c6cdae204fe339aff812ecc908e8" . "8912b50e49f293232be930483a1f8f4226a2afa4") (collects #"htdp" #"error.rkt") (collects #"lang" #"htdp-beginner.rkt") (collects #"plai" #"main.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"parse.rkt"))

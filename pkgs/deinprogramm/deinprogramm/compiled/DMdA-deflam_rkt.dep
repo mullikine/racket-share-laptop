@@ -1,0 +1,1 @@
+("7.0" ("325281f53c689bc9e1f325f51744ffef998299a0" . "9e2a7c76838cc04a950fb5e7e04962566876f082") (collects #"deinprogramm" #"DMdA" #"lang" #"reader.rkt") (collects #"deinprogramm" #"DMdA.rkt") (collects #"scheme" #"runtime-config.rkt"))

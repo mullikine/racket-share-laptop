@@ -1,0 +1,1 @@
+("7.0" ("ecd9742ae481ab1ac6879bea71c944d5837bede8" . "059edf553063ff9a289d2023625e5a8e9af1dfbd") (collects #"embedded-gui" #"embedded-gui.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

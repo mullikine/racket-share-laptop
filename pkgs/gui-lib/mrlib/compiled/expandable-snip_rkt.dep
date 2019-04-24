@@ -1,0 +1,1 @@
+("7.0" ("151e2a7744fbd9ab882baa3cca678c090a6120f9" . "d7e238d0523e396c56f1420bb8d5ea9ec8314bc7") (collects #"mrlib" #"arrow-toggle-snip.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

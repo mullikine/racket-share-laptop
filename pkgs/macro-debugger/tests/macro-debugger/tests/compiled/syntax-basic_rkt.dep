@@ -1,0 +1,1 @@
+("7.0" ("e87810105d54ed2e12e0213b9ea3a037a5a0a3df" . "1dd839a93c198cc75215694304238cd77f37e83a") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"tests" #"macro-debugger" #"gentest-framework.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("05c27d0e87e782d326af3cec8495c69b30182d18" . "4914c7815df40e7aee8be4d53c42b52dba2cd585") (collects #"mzlib" #"class.rkt") (collects #"mzscheme" #"main.rkt") (collects #"wxme" #"wxme.rkt"))

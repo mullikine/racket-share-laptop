@@ -1,0 +1,1 @@
+("7.0" ("0379e5b262b6f863cb8d475eab46e472acfaa894" . "144bcfa63a6b03795ab8d32d6d5f21fa33c61c0d") (collects #"lazy" #"lazy.rkt") (collects #"racket" #"runtime-config.rkt"))

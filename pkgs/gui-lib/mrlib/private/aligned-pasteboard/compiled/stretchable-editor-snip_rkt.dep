@@ -1,0 +1,1 @@
+("7.0" ("56ed4dabc7dfee77c89381554ffdec4c767ea0a7" . "0a4b4e0fc5d2eaec195f8f9ec43a1c4a87cd9b33") (collects #"mred" #"main.rkt") (collects #"mrlib" #"private" #"aligned-pasteboard" #"interface.rkt") (collects #"mrlib" #"private" #"aligned-pasteboard" #"snip-lib.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzscheme" #"main.rkt"))

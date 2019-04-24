@@ -1,0 +1,1 @@
+("7.0" ("d5a0827d8065d06d220121dc6c58680cf612853e" . "fbdf7444d501bd17fcc0b9c70c4d21cc135fb86c") (collects #"pkg" #"path.rkt") (collects #"planet" #"config.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt") (collects #"setup" #"path-relativize.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("d2826d9dbd308ce06dabd97ea8edd765a953a552" . "a4860295bb4e465429bf57057e54cc20c0d23103") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"chapter7" #"checked" #"data-structures.rkt") (collects #"eopl" #"tests" #"chapter7" #"checked" #"environments.rkt") (collects #"eopl" #"tests" #"chapter7" #"checked" #"lang.rkt"))

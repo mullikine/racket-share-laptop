@@ -1,0 +1,1 @@
+("7.0" ("7861a4541b0e668f397d21dd1a476eb7e14a566b" . "4467db07eba452946b4474e5d364171b4d173abf") (collects #"htdp" #"error.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"contract.rkt") (collects #"web-server" #"servlet-env.rkt") (collects #"web-server" #"servlet.rkt") (collects #"xml" #"main.rkt"))

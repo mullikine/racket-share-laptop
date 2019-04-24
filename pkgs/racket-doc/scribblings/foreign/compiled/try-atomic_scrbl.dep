@@ -1,0 +1,1 @@
+("7.0" ("1af1e98bb6733a2133beb0f3c349314e5c3703f8" . "72fe7e35462047699f7eb600c48e36856b06d3e5") (collects #"ffi" #"unsafe" #"atomic.rkt") (collects #"ffi" #"unsafe" #"try-atomic.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"foreign" #"utils.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("a2268e064c5da294d52e1eefe2080c0bd98db1e4" . "9c5ff321338ed318ad18af2231bc66b46f09b6e2") (collects #"net" #"osx-ssl.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"openssl" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

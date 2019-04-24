@@ -1,0 +1,1 @@
+("7.0" ("2fade2e9ed40db764c66bbddf65f2024475f6d8e" . "f8a9b84b942f0b65eca4a1ef9fad12f54f5225ea") (collects #"mrlib" #"snip-canvas.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("57f66915b7835c268bd43ad9ecd59923e13c4233" . "cebe15dd536b01862f6d0d8d030821ca5224940a") (collects #"racket" #"main.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"srfi" #"13.rkt") (collects #"srfi" #"14.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))

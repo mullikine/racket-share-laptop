@@ -1,0 +1,1 @@
+("7.0" ("67612f736e048de519391eed7feb2bf81f4c1f8e" . "097265ce4e05e0cddefe3435f1a0b734bf332f53") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax-color" #"token-tree.rkt"))

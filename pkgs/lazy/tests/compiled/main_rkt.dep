@@ -1,0 +1,1 @@
+("7.0" ("e577752f0a5941b988e0d19a6d6d187f610d0258" . "afc04057f44d8c5de344c15677baa02b5367809e") (collects #"lazy" #"tests" #"forcers.rkt") (collects #"lazy" #"tests" #"lang.rkt") (collects #"lazy" #"tests" #"promise.rkt") (collects #"lazy" #"tests" #"space.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"tests" #"eli-tester.rkt"))

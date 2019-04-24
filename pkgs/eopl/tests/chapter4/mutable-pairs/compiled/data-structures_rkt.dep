@@ -1,0 +1,1 @@
+("7.0" ("344399db0b21ebf213b79b8fcaf33ba70503734a" . "114a1194651805501f2953e6bb72534d5d33f728") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"eopl" #"tests" #"chapter4" #"mutable-pairs" #"lang.rkt") (collects #"eopl" #"tests" #"chapter4" #"mutable-pairs" #"pairvals.rkt") (collects #"eopl" #"tests" #"chapter4" #"mutable-pairs" #"store.rkt"))

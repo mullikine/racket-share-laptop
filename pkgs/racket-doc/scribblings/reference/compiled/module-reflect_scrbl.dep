@@ -1,0 +1,1 @@
+("7.0" ("b12198ce096d7720ea1980ccdee9c083a284c487" . "7462751d9ae2d08aaa2fec7dd0fa8e2764743aa9") (collects #"compiler" #"embed.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"syntax" #"modresolve.rkt"))

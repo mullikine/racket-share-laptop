@@ -1,0 +1,1 @@
+("7.0" ("936cd4810fe8bec2f760f8c1b6dcfccbbb6f3373" . "939d8c7541bfd8f2708ee67002ce489e7ceae356") (collects #"racket" #"async-channel.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

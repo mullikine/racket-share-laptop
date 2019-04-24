@@ -1,0 +1,1 @@
+("7.0" ("89edc87267f3eaeefadc28c3d5120b7ccc6c3a65" . "f30c7390b798b54d140cbd6e086dcc435f8d44b4") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"stxparam.rkt") (collects #"racklog" #"unify.rkt") (collects #"syntax" #"kerncase.rkt"))

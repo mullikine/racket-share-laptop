@@ -1,0 +1,1 @@
+("7.0" ("eafe61ce3c464e2539c0d5d22f10e0b87e9b6c5e" . "1ccbf68718d509602f3b27dd56d06d2e51fefbc6") (collects #"mzlib" #"include.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"features.rkt") (collects #"syntax" #"stx.rkt"))

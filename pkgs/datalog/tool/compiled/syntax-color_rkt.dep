@@ -1,0 +1,1 @@
+("7.0" ("4383268e600311be760e12696925f478653b7ee1" . "20c41b862210af06cd77767e7d02aa89be1db6a1") (collects #"datalog" #"private" #"lex.rkt") (collects #"parser-tools" #"lex-sre.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

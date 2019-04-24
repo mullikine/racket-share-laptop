@@ -1,0 +1,1 @@
+("7.0" ("a7ce4f0cc081affcfa6609b56bebe3f8a4ae9bfe" . "6496a09476919a7556a17e084a3beae9cdcf8772") (collects #"framework" #"private" #"collapsed-snipclass-helpers.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

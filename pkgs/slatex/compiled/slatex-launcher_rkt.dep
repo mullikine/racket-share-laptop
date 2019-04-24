@@ -1,0 +1,1 @@
+("7.0" ("0046ec69e737cf9673e9013f45cfffb12deabc10" . "88ac50ac6c4365bd8746aed0fb0a695f0f8709dd") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"slatex" #"slatex-wrapper.rkt"))

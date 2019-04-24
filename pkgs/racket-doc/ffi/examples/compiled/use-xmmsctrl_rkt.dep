@@ -1,0 +1,1 @@
+("7.0" ("0de60cd3bd7d0b5f170952d69d802c6782f76f05" . "ce59a488b9d8a686f8ef4e40d46ed75218723b27") (collects #"ffi" #"examples" #"xmmsctrl.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

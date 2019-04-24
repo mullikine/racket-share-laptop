@@ -1,0 +1,1 @@
+("7.0" ("ba2ebb8a32bd3e9298ff9b52ac48a9f675b3e664" . "e2cbae2af3146fd2ba8ba0333739b6c0ed5ed8f2") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"signature" #"lang.rkt") (collects #"scheme" #"signature" #"lang" #"reader.rkt"))

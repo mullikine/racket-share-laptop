@@ -1,0 +1,1 @@
+("7.0" ("0958158321157ab5643b7691348dd995fbe4b721" . "7346bc4e4b7f4b0468efe38b6098740aefd9ea7e") (collects #"scheme" #"base.rkt") (collects #"scheme" #"promise.rkt") (collects #"scheme" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("3e18f16df8998c10e666cacc172a5c3fb2fba468" . "89de38fbdec5855a8b64bc7485ea0e452b816036") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt"))

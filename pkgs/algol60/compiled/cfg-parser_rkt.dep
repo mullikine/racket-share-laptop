@@ -1,0 +1,1 @@
+("7.0" ("1758816b2c693a2609b680158f70bf310cddfd72" . "6e05bb6bdc6ee1964d082164c1452ab3b56315a9") (collects #"parser-tools" #"cfg-parser.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

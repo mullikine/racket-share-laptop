@@ -1,0 +1,1 @@
+("7.0" ("f0158434653c55bb52c3e906d76dfa5b5b4f9132" . "b260973b28083007245701e6036be20ad228c778") (collects #"compiler" #"module-suffix.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"promise.rkt") (collects #"racket" #"runtime-config.rkt"))

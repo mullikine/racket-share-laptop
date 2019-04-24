@@ -1,0 +1,1 @@
+("7.0" ("8974e4ccbef8323151986af01d0edd632a1d4419" . "00cb939e49747ac9e5a0c32627e13fccdd4ff11a") (collects #"drracket" #"tool.rkt") (collects #"framework" #"private" #"decode.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

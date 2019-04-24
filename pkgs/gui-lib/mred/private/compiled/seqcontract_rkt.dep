@@ -1,0 +1,1 @@
+("7.0" ("bb4b8162ffc2af953a3d177e142c7191c7b87c1e" . "bf3ce11c0aafa87451a3ae60c048a2650388d10f") (collects #"mzlib" #"class.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"syntax" #"stx.rkt"))

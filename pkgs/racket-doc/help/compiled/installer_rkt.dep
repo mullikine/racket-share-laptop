@@ -1,0 +1,1 @@
+("7.0" ("835416d7afe733002ddd9a18969ba15351085baa" . "36363b860a09dae9c272c23cd7a90d8cc3dcf6aa") (collects #"launcher" #"main.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"setup" #"dirs.rkt"))

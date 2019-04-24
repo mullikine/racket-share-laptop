@@ -1,0 +1,1 @@
+("7.0" ("ab08232c71c4fbf985479ccbca597f499a33095d" . "fb88278eb7bd652ed31e7cc5310ea06c944b18c1") (collects #"2htdp" #"private" #"timer.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt") (collects #"scheme" #"gui.rkt") (collects #"scheme" #"runtime-config.rkt"))

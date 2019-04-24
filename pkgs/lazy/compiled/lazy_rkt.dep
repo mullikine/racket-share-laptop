@@ -1,0 +1,1 @@
+("7.0" ("e1fc1aee78834ee7e8a58dfb6f50db1ebe4f14e1" . "9362fd4fa0646cf2c5dd95e13c9d48e3ebc249e3") (collects #"lazy" #"base" #"lang" #"reader.rkt") (collects #"lazy" #"base.rkt") (collects #"lazy" #"list.rkt") (collects #"racket" #"runtime-config.rkt"))

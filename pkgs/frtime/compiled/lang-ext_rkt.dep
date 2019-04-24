@@ -1,0 +1,1 @@
+("7.0" ("5d271c92decb49f94c9940ddcd3876844c24f4c0" . "9766a1070b5f336de5b7056000fd9b004f89d9a7") (collects #"data" #"queue.rkt") (collects #"frtime" #"core" #"frp.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"function.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("c0d6c37d728dc71d605fbb53334f42c16c171089" . "56c388d5abb536a3f52ee01592a93b047fc8cbe8") (collects #"deinprogramm" #"DMdA-vanilla.rkt") (collects #"deinprogramm" #"define-record-procedures.rkt") (collects #"deinprogramm" #"world.rkt") (collects #"mzlib" #"include.rkt") (collects #"mzscheme" #"main.rkt") (ext collects #"deinprogramm" #"line3d.scm"))

@@ -1,0 +1,1 @@
+("7.0" ("9c9f73965cd7d81f2cf9855770a6aecf59b435c6" . "fa785e31cda342f8b5a7aed2b638278edaa7a39f") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"1.rkt"))

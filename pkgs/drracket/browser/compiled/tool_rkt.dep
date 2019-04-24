@@ -1,0 +1,1 @@
+("7.0" ("df1b6396d1ed301edec833c785bb63237d9d217b" . "8748a9bc2baa13c5db90314457f14fdbf13f7237") (collects #"browser" #"external.rkt") (collects #"drracket" #"tool.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

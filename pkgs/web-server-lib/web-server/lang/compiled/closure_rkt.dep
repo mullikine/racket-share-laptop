@@ -1,0 +1,1 @@
+("7.0" ("cb55cccddcc54d13530dffa44bb1eacaf6fc23ea" . "d978f75667a6794ea7fcee8a4eb2ecf325a7fde3") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"serialize.rkt") (collects #"racket" #"syntax.rkt") (collects #"syntax" #"free-vars.rkt") (collects #"web-server" #"lang" #"util.rkt"))

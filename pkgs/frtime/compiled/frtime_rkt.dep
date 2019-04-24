@@ -1,0 +1,1 @@
+("7.0" ("252a619f70cdd811929612d38c2e5d88a76e72fb" . "169f71775b675848f625d53edd7929668249de47") (collects #"frtime" #"core" #"frp.rkt") (collects #"frtime" #"frp-snip.rkt") (collects #"frtime" #"lang-ext.rkt") (collects #"frtime" #"lang-utils.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

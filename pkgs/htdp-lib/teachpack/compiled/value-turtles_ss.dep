@@ -1,0 +1,1 @@
+("7.0" ("2ede932eabc76f7a70a644ad2cb421f9296890d1" . "24b00829f7ecbda54ebcc7e21be15c308644d2d4") (collects #"graphics" #"value-turtles.rkt") (collects #"mzscheme" #"main.rkt"))

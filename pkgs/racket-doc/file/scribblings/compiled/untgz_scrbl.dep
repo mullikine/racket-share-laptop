@@ -1,0 +1,1 @@
+("7.0" ("55c659c15c949889c356e48ef30726f7a3fd1a55" . "aefb78a996edb5db467e1ef9a9881273d484a567") (collects #"file" #"gunzip.rkt") (collects #"file" #"scribblings" #"common.rkt") (collects #"file" #"untar.rkt") (collects #"file" #"untgz.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

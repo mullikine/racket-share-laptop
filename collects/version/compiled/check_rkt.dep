@@ -1,0 +1,1 @@
+("7.0" ("5f7784f94056ffe9bd017698bf2170cf87e52067" . "9b41dad74746a6f6e3fda961b7597bf5e83bfb3b") (collects #"net" #"url.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"tcp.rkt") (collects #"version" #"utils.rkt"))

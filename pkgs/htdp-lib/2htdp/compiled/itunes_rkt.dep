@@ -1,0 +1,1 @@
+("7.0" ("e3da4a93fb75eac05cf16022cc94afdbaf333a0a" . "95cbf6fce4121db69d28ef4e9d46c2544a40a9c0") (collects #"htdp" #"error.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (collects #"xml" #"xml.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))

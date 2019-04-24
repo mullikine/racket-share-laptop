@@ -1,0 +1,1 @@
+("7.0" ("c7290d1949c7702a1947e89dd59817c5db7ee0a8" . "c147af03e21659ec5e1e6a79e40cb6192549fb28") (collects #"games" #"same" #"same-lib.rkt") (collects #"games" #"show-scribbling.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("33afb4df5f16a1879224ac2206a33753cfb8a308" . "36ae60a25ed48014fa80493e25558552c0115497") (collects #"racket" #"private" #"more-scheme.rkt") (collects #"racket" #"private" #"qq-and-or.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("57c3068c61dd53ea9d286a9e1bb81a3781a4894d" . "05a0a660cc3d6294b2c70b0bc6c5ed13aaba764c") (collects #"racket" #"private" #"define.rkt") (collects #"racket" #"private" #"kw.rkt") (collects #"racket" #"private" #"performance-hint.rkt") (collects #"racket" #"private" #"small-scheme.rkt"))

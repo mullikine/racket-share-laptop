@@ -1,0 +1,1 @@
+("7.0" ("38c63c8a800ba8a8aeea899015388d1fd7b276df" . "d206045f947dafb39cc64416ae8bddc082c0f179") (collects #"lang" #"error.rkt") (collects #"net" #"url.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"runtime-config.rkt"))

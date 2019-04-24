@@ -1,0 +1,1 @@
+("7.0" ("c146bbd4c1e73e200e308a0a3e32695f8001e28c" . "6f723f44d7986ecbf066a10656c1de16369aa1cb") (collects #"plai" #"datatype.rkt") (collects #"plai" #"test-harness.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"web-server" #"insta" #"insta.rkt") (collects #"web-server" #"servlet.rkt"))

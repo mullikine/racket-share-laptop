@@ -1,0 +1,1 @@
+("7.0" ("16245d2757e77fdcac2139e7adebf480e2e94a07" . "1b06f726281bb210010f8c59ed77bcf6def4b4a1") (collects #"2htdp" #"itunes.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

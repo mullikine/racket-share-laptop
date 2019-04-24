@@ -1,0 +1,1 @@
+("7.0" ("720ebd4db480d58e639b667699044e72cf74f347" . "bde4d3d387ff4f7022ec10e756dcc5774f321a5c") (collects #"mzlib" #"contract.rkt") (collects #"mzscheme" #"main.rkt") (collects #"srfi" #"4.rkt"))

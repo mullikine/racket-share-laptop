@@ -1,0 +1,1 @@
+("7.0" ("cb0174f8ac6ca5b4cbde6c43d69290fe8c372fec" . "263f6ba6fc6c99326d27226ea1e20cd2703f8ba6") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"redex" #"benchmark" #"private" #"gen-run.rkt") (collects #"redex" #"benchmark" #"private" #"logging.rkt") (collects #"redex" #"benchmark" #"private" #"rw-defs.rkt"))

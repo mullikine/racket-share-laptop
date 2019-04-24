@@ -1,0 +1,1 @@
+("7.0" ("f72da5a1b8bbeada23f96b4e7ad5920dad468f0e" . "ba8a49e98ad6b8aa929bcf3443b1b9c53a8824a6") (collects #"games" #"lights-out" #"boards.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

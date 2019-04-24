@@ -1,0 +1,1 @@
+("7.0" ("09a4e20b7fac4215b5915e23be515893a0f0ee95" . "89dc93a95fd5988eafe057dc57a16558149331d8") (collects #"framework" #"private" #"gen-standard-menus.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

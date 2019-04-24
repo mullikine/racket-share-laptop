@@ -1,0 +1,1 @@
+("7.0" ("044ba3e44edd3e462de5c47379af6a1beabc133d" . "0cdf54a78d10b38fe30bbd187e19bcc73779eb13") (collects #"graphics" #"graphics-posn-less-unit.rkt") (collects #"graphics" #"graphics-sig.rkt") (collects #"mred" #"mred-sig.rkt") (collects #"mzlib" #"unit.rkt") (collects #"mzscheme" #"main.rkt"))

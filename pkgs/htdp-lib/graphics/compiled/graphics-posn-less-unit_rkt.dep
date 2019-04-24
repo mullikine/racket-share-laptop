@@ -1,0 +1,1 @@
+("7.0" ("70e2aa3a7029b0c421abff79c85eab2ab58b9b3a" . "ff633be95fde4d5d1f2d2043a6e7eebc742f293c") (collects #"graphics" #"graphics-sig.rkt") (collects #"mred" #"main.rkt") (collects #"mred" #"mred-sig.rkt") (collects #"mzlib" #"etc.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

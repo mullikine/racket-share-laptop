@@ -1,0 +1,1 @@
+("7.0" ("17e497e39e354b1eb81785414c7884c0e9109f71" . "a067fe3c031dbc88cc5d63bba6794084e40be97b") (collects #"mrlib" #"bitmap-label.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

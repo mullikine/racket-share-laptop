@@ -1,0 +1,1 @@
+("7.0" ("7ade21098bbccb4c87ed8dae593e31b5d166d143" . "7637dc3167bc2749d4a188fda694bf6aa2dbdde7") (collects #"net" #"scribblings" #"common.rkt") (collects #"net" #"ssl-tcp-unit.rkt") (collects #"net" #"tcp-sig.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("f41adabbed733ae41b3c3de72a80abc20064514a" . "27afb960b10b2347e991b67431c530215498e04f") (collects #"scheme" #"base.rkt") (collects #"scheme" #"include.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"srfi" #"9.rkt") (ext collects #"deinprogramm" #"quickcheck" #"random.scm"))

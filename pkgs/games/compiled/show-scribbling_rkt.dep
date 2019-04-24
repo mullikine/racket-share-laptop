@@ -1,0 +1,1 @@
+("7.0" ("e120aec99a20308330784ac94d2ecec9faf3b76c" . "31556d31d52111b41af9ed73fc8ff4b4574595af") (collects #"net" #"sendurl.rkt") (collects #"net" #"url.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"tag.rkt") (collects #"scribble" #"xref.rkt") (collects #"setup" #"xref.rkt"))

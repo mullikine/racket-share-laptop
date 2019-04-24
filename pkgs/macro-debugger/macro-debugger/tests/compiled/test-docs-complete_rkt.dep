@@ -1,0 +1,1 @@
+("7.0" ("af5452566bab3c1dfb383827d6ab281e6efc65bb" . "77439c3e7705395116111394a190efd5c21dd282") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"docs-complete.rkt"))

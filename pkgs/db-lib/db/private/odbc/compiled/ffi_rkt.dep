@@ -1,0 +1,1 @@
+("7.0" ("8fa340968b3584473f7b6b03fa32043f261836d3" . "2e478fe689e466097e164f6a921f184e04209914") (collects #"db" #"private" #"odbc" #"ffi-constants.rkt") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

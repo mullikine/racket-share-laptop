@@ -1,0 +1,1 @@
+("7.0" ("31b82b25ed83490b992c50ed19b19a65f6d8fbd8" . "7103f5307458f249744b65550b0b99f618f662d8") (collects #"parser-tools" #"lex-sre.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax-color" #"lexer-contract.rkt"))

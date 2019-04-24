@@ -1,0 +1,1 @@
+("7.0" ("d2cb31ecef4268ecfae2967ec03e3080ef64776e" . "896cab5510a7d4293ef8e2d79a6546f7d54dd9e8") (collects #"2d" #"dir-chars.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"set.rkt") (collects #"syntax" #"readerr.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("efbefd02f64aceb8420ce4bf70f7c62f09032731" . "3624e41282ce3117caf0c010edb0796594b9eb9e") (collects #"mzlib" #"contract.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"match.rkt") (collects #"mzscheme" #"main.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt"))

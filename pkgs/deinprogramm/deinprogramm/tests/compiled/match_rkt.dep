@@ -1,0 +1,1 @@
+("7.0" ("6d09f7b05327fcfdc2f5100dfad4699ad23d01b4" . "03c73ec1f3f1a5d5fb05201b82131f1063592883") (collects #"deinprogramm" #"DMdA.rkt") (collects #"deinprogramm" #"define-record-procedures.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt"))

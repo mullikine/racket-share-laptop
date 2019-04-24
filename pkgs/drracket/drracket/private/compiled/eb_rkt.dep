@@ -1,0 +1,1 @@
+("7.0" ("502b593970edb4790352e9cf303ae28631587862" . "6f36362d47f1f180600266c7eeb4c159b99cb5ba") (collects #"framework" #"splash.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("7f35a58cc9eae031d46d665b52c952a76aebde42" . "c2f2612bd87594346afe23616382aefdfc115ff8") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"slideshow" #"base.rkt") (collects #"slideshow" #"pict.rkt") (collects #"syntax" #"module-reader.rkt"))

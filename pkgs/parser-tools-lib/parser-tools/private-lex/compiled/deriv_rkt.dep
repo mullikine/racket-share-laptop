@@ -1,0 +1,1 @@
+("7.0" ("1edbe8de6053f0e8735c4d7777b345672d547c86" . "ef010e8598ad8900b7a5d77c9197c55f60bdc1e8") (collects #"mzlib" #"integer-set.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt") (collects #"parser-tools" #"private-lex" #"re.rkt") (collects #"parser-tools" #"private-lex" #"util.rkt"))

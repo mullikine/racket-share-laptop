@@ -1,0 +1,1 @@
+("7.0" ("b28935822df38d4fa9f8ba87a4b7954d847cd2ab" . "277de41a227ce63e544e5afef420707a8a915539") (collects #"racket" #"base.rkt") (collects #"racket" #"require-transform.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"apply-transformer.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("02e2d95f76d1815da5ebe8d14d22e89d6b8697e8" . "d01931a9e90abaea109422c286392ab868b41eca") (collects #"framework" #"notify.rkt") (collects #"framework" #"preferences.rkt") (collects #"macro-debugger" #"syntax-browser" #"interfaces.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("1a4536c91cd7370e12c01470e137176e68418a10" . "f91bd093b3df3f9b58350950067a6924854853b3") (collects #"mrlib" #"syntax-browser.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"pretty.rkt") (collects #"racket" #"runtime-config.rkt"))

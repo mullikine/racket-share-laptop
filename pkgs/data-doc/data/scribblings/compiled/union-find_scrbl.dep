@@ -1,0 +1,1 @@
+("7.0" ("72d8720135aef1f1a63073b50f736a5235b853cd" . "c298b558cf23542a95382aa5884e28e50d32b1b0") (collects #"data" #"union-find.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"eval.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))

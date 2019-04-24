@@ -1,0 +1,1 @@
+("7.0" ("86606d5cbd2aff70399ad245d8c04cc189843f9b" . "f44a1432febb6bae0843e2a74d35d0f6ed9a03e7") (collects #"pkg" #"private" #"get-info.rkt") (collects #"pkg" #"private" #"metadata.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"format.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"set.rkt") (collects #"syntax" #"modcollapse.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("0fef8390e75b99e5b09b994d53bb54377e0b6628" . "ff174307f01c8f254e49b2b1855eca67efd43d48") (collects #"net" #"tcp-sig.rkt") (collects #"racket" #"async-channel.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"tcp.rkt") (collects #"racket" #"unit.rkt"))

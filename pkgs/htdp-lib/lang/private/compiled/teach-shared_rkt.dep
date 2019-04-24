@@ -1,0 +1,1 @@
+("7.0" ("823c60fe97c00ab19ffb84f6ca0ae116bac11447" . "0178bf546e9634ad550ca2b7547b8c2882b5b4ba") (collects #"lang" #"private" #"teachprims.rkt") (collects #"racket" #"private" #"shared-body.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

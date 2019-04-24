@@ -1,0 +1,1 @@
+("7.0" ("00ddff98f28b3b0f1219e9560e4602b032e597f6" . "5cf7042f7f3ffe93bb0e6c22cea8bb313c78828e") (collects #"embedded-gui" #"private" #"interface.rkt") (collects #"framework" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt"))

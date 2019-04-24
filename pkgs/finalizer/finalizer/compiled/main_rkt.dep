@@ -1,0 +1,1 @@
+("7.0" ("6450d9fa36b8e62745d4f98bb3477060ec4cbc49" . "ddf705b5e3a62783f62573027c353fc3747649a3") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("fe7582326ccfd39ac07da1b92ce8e3196a7a258c" . "f08a948fdd9387709607ed61547ab92fecbe9274") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"mred" #"private" #"wx" #"cocoa" #"types.rkt") (collects #"mred" #"private" #"wx" #"cocoa" #"utils.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

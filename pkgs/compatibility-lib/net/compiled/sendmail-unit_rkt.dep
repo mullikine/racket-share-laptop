@@ -1,0 +1,1 @@
+("7.0" ("ed4f2a14fc3825d357bcec1416f4d4ed4e56400d" . "cb097805b668e8c5a1054a216039f8e28eae5d69") (collects #"net" #"sendmail-sig.rkt") (collects #"net" #"sendmail.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

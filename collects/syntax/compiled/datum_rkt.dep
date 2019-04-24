@@ -1,0 +1,1 @@
+("7.0" ("dcfb484e557018d61349a77d57c729c031676e59" . "e72aa4287ab3f776d75d908d2a8079f680188994") (collects #"racket" #"private" #"qqstx.rkt") (collects #"racket" #"private" #"stxcase-scheme.rkt"))

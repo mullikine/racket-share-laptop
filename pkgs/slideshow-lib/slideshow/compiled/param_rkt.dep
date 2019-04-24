@@ -1,0 +1,1 @@
+("7.0" ("838b0e41cde067d080d519209e30977493273cae" . "b678687cf970a0cfe03089d21566ae00fcd02be2") (collects #"mzlib" #"unit.rkt") (collects #"mzscheme" #"main.rkt") (collects #"slideshow" #"cmdline.rkt") (collects #"slideshow" #"sig.rkt") (collects #"slideshow" #"viewer.rkt"))

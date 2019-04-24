@@ -1,0 +1,1 @@
+("7.0" ("c3a7c429495af582071d8a276d1902314bb24ce2" . "f1069d73a626fa364fcb8a97bda070489aef599a") (collects #"mrlib" #"arrow-toggle-snip.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

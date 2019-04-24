@@ -1,0 +1,1 @@
+("7.0" ("c1e5d8f87383cf916d7c00d4cb20693303892938" . "9e36e1a65798e8e36d7b0e287ddb0149f06c4ebc") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"srfi" #"42" #"generator-definitions.scm") (collects #"srfi" #"42" #"generator-struct.scm") (collects #"srfi" #"42" #"loops.scm") (collects #"srfi" #"42" #"mzscheme2.rkt") (collects #"syntax" #"stx.rkt"))

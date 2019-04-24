@@ -1,0 +1,1 @@
+("7.0" ("28c11b3d4c74ca83dab809cc328e61f8a7350a9d" . "f21b570d26d4fc01fbbc37e66d2a5554f4435c22") (collects #"racket" #"future.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"futures-logging.scrbl") (collects #"scribblings" #"reference" #"mz.rkt"))

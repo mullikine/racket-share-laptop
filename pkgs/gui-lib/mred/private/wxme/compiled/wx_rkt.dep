@@ -1,0 +1,1 @@
+("7.0" ("c6473dd46c34f7e33170b1a0a157c097f064ed75" . "762b5881ef4618ace189619feea5e2b30e7b404c") (collects #"mred" #"private" #"kernel.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"draw" #"private" #"font-syms.rkt") (collects #"racket" #"runtime-config.rkt"))

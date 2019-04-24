@@ -1,0 +1,1 @@
+("7.0" ("2661c8f33fbdfb04d08b787f2f7bad59b2a69839" . "2b399ad327ba15a0079909f2c60f04ec236a3da5") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"syntax.rkt") (collects #"syntax" #"strip-context.rkt") (collects #"typed" #"racket" #"base.rkt") (indirect collects #"syntax" #"define.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("49474e154b4f156d9fa9ea02f4531d40cd01a8c6" . "333727deee7cae22e88060b802f2902891284085") (collects #"algol60" #"prims.rkt") (collects #"algol60" #"runtime.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

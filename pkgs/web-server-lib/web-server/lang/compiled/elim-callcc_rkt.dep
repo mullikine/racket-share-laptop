@@ -1,0 +1,1 @@
+("7.0" ("2ccd889deb00fa0e19203c136deecc3f37afb988" . "bc0b91e9c3ed01b8c13ddac7580d033fa318b0be") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"web-server" #"lang" #"abort-resume.rkt") (collects #"web-server" #"lang" #"util.rkt"))

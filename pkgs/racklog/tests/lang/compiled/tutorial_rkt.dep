@@ -1,0 +1,1 @@
+("7.0" ("2edd53b9b36a59196f9ddde34b406ae6dc7f40da" . "f64d988a2223f875a57f11a1e971d0d21b90510c") (collects #"datalog" #"eval.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racklog" #"lang" #"empty.rkt") (collects #"racklog" #"lang" #"reader.rkt") (collects #"racklog" #"main.rkt"))

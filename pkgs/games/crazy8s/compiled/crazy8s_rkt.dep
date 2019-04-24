@@ -1,0 +1,1 @@
+("7.0" ("681991dc20d9d6c3c1471c1ae0cc72b07ebac43b" . "15976868f496a3feaf98e5a9fef63c001c0a5488") (collects #"games" #"cards.rkt") (collects #"racket" #"async-channel.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"file.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"unit.rkt"))

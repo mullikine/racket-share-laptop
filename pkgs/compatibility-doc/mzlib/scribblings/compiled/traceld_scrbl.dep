@@ -1,0 +1,1 @@
+("7.0" ("bcd3923e0da5f69c7ea2a7fc0a3016af71fc1cfd" . "61ed79c341bc3637f68467f54f0eaa4ee302520f") (collects #"mzlib" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

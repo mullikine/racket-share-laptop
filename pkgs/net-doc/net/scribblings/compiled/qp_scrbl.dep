@@ -1,0 +1,1 @@
+("7.0" ("3945edc2cd9c5b5cd08e0e5a3b0def1d5a258a17" . "54dd8ab77708be4939d296aa815c02c71aea8349") (collects #"net" #"qp-sig.rkt") (collects #"net" #"qp-unit.rkt") (collects #"net" #"qp.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

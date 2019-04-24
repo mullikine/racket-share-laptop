@@ -1,0 +1,1 @@
+("7.0" ("f7bcc86d3b6026b05f02f5b7286d6a00a0ba5360" . "1214a7fcb4dd0e2d3616b342ee05382566f45284") (collects #"games" #"gobblet" #"explore.rkt") (collects #"games" #"gobblet" #"heuristics.rkt") (collects #"games" #"gobblet" #"model.rkt") (collects #"games" #"gobblet" #"sig.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

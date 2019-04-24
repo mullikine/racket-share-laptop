@@ -1,0 +1,1 @@
+("7.0" ("156d4bf3ad15c4c84bcd0de8257958df61e2a25f" . "0d7133f5f4e3462647a913060efb217e89790d62") (collects #"mzlib" #"list.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"undefined.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

@@ -1,0 +1,1 @@
+("7.0" ("72d94486d0e32fa0b84d8f25bbd84abcdada12eb" . "05083a044e7fbf6af44ffa75c0a142015a9496f9") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt") (collects #"web-server" #"lang" #"web-cells.rkt") (collects #"web-server" #"scribblings" #"web-server.rkt"))

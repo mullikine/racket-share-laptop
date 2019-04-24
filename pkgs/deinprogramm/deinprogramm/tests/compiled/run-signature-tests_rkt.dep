@@ -1,0 +1,1 @@
+("7.0" ("8eb52174b07dd7653320b474dbd21ca35f8dc61b" . "a148af4eecff1c5698ae306f8f4b7c859bda81b7") (collects #"deinprogramm" #"tests" #"signature.rkt") (collects #"rackunit" #"text-ui.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"runtime-config.rkt"))

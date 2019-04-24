@@ -1,0 +1,1 @@
+("7.0" ("14c572a629cbde25e5ab0ed1a121422ede58fc0c" . "3d888214c5513e83a7fc77765fd7c9f2914731b8") (collects #"2htdp" #"web-io.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

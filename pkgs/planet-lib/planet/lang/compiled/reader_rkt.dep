@@ -1,0 +1,1 @@
+("7.0" ("486aeede12ed6b8b89cc3e36eaef2b8307487c52" . "2e97bedb399a3d551f120d2af648d417345ce0a6") (collects #"planet" #"resolver.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"module-reader.rkt"))

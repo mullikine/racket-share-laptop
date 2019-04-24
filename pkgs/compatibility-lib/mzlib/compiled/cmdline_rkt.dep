@@ -1,0 +1,1 @@
+("7.0" ("06912c991ab4f56bbc3b221f9c24ebcdbc2bb7fa" . "5dcfba0d8ad239f4e8af05f54e1a101d0989269d") (collects #"mzscheme" #"lang" #"reader.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"cmdline.rkt"))

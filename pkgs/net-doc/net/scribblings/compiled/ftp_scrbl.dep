@@ -1,0 +1,1 @@
+("7.0" ("5845bdf2a138c1454280df0c0b53f86e8ff7e458" . "f941df1437c1453663ef51d5a13454066eb25874") (collects #"net" #"ftp-sig.rkt") (collects #"net" #"ftp-unit.rkt") (collects #"net" #"ftp.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

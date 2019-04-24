@@ -1,0 +1,1 @@
+("7.0" ("d224c74641c0939600ca9cfa60145d8b1f8a8217" . "793003cab0acbd8b5639b024dea3a0331915528b") (collects #"mred" #"private" #"wx" #"common" #"backing-dc.rkt") (collects #"mred" #"private" #"wx" #"common" #"queue.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"runtime-config.rkt"))

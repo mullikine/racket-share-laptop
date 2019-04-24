@@ -1,0 +1,1 @@
+("7.0" ("da9b86884e39e0f547f0223b7412b91bef51be61" . "726fc36676a4ea556cfa12e4b38083da03ed5043") (collects #"lang" #"htdp-reader.rkt") (collects #"mzscheme" #"main.rkt"))

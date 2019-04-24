@@ -1,0 +1,1 @@
+("7.0" ("1ab4a12f7ee7d024e1e10dd4846694b36b0bec62" . "00710fdfa9498a730080b5c840581f75677dd56f") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"redex" #"examples" #"delim-cont" #"grammar.rkt") (collects #"redex" #"examples" #"delim-cont" #"meta.rkt") (collects #"redex" #"reduction-semantics.rkt"))

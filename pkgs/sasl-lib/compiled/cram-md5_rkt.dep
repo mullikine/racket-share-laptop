@@ -1,0 +1,1 @@
+("7.0" ("3e38fc2415806c7ee9a0ddaecccda42fdce59231" . "af9c3062a93e44f191a80fc510c2aacbd107af68") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"sasl" #"private" #"base.rkt") (collects #"sasl" #"private" #"cram-md5.rkt"))

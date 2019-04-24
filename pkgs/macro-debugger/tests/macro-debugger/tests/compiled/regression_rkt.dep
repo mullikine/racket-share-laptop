@@ -1,0 +1,1 @@
+("7.0" ("10a75aae3ea952b977ef499a00b7d49211217b69" . "172f94c8bb2c51859f0f7cfce038f3c477586202") (collects #"macro-debugger" #"model" #"debug.rkt") (collects #"macro-debugger" #"model" #"steps.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (collects #"tests" #"macro-debugger" #"test-setup.rkt"))

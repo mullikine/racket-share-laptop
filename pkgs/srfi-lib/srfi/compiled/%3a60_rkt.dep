@@ -1,0 +1,1 @@
+("7.0" ("3a83ca161d9b7b184d70af31ef7ee0b98d9695e7" . "579c8ff062083bffd318fcf158513b7caa1b3cc8") (collects #"racket" #"runtime-config.rkt") (collects #"s-exp" #"lang" #"reader.rkt") (collects #"srfi" #"60.rkt") (collects #"srfi" #"provider.rkt"))

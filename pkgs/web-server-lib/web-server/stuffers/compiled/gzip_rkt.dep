@@ -1,0 +1,1 @@
+("7.0" ("973c5ce20ac00ff26099c3c25a8e36c3aa8c0e7c" . "ba99c0e4aa0dbfb61782ef97f8c9653dd8c90aa7") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"web-server" #"private" #"gzip.rkt") (collects #"web-server" #"stuffers" #"stuffer.rkt"))

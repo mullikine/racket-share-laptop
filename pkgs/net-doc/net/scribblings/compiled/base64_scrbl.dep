@@ -1,0 +1,1 @@
+("7.0" ("d07e0b94d040163f3f7c629b54378dc594cb7ea6" . "4c731ebb0e38c98b89756c6cc26dd34534a14490") (collects #"net" #"base64-sig.rkt") (collects #"net" #"base64-unit.rkt") (collects #"net" #"base64.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (collects #"scribble" #"doclang.rkt"))

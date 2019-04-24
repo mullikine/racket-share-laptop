@@ -1,0 +1,1 @@
+("7.0" ("2407714cfb6ee671f08c209a53f80fdac77db6aa" . "6ba7567f9ef5fac0da6c7827781d00bd0b766e7d") (collects #"framework" #"main.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribble" #"reader.rkt"))

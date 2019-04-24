@@ -1,0 +1,1 @@
+("7.0" ("60a5649366c7b664524bda29628b0d9f496e40b1" . "9ae981f03a7d8e04c4b586907026f3a1fd537fa0") (collects #"mzscheme" #"main.rkt") (collects #"r5rs" #"private" #"r5rs-trans.rkt") (collects #"racket" #"undefined.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"runtime-config.rkt") (collects #"syntax" #"kerncase.rkt"))

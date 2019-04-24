@@ -1,0 +1,1 @@
+("7.0" ("82ae1d6f5252fe24cb8a4932ddb11bd53736e1e7" . "1789e46df976826a061bd997965f8b4c943e1996") (collects #"ffi" #"unsafe.rkt") (collects #"openssl" #"libcrypto.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"setup" #"cross-system.rkt"))
